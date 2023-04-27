@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vega-Lite Bar Chart</title>
+  <meta charset="utf-8" />
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.6.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"></script>
+
+  <style media="screen">
+
+    .vega-actions a {
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+<h1>Classroom occupancy display in Vega-lite</h1>
+
+<div id="vis"></div>
+
+<script>
+
+  var vlSpec = {
+    $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+    width: 1000,
+    data: {
+      url: "./forVegaLite.json"
+    },
+    mark: 'bar',
+    encoding: {
+      x: {
+        //aggregate: 'count',
+        "field": "Classroom",
+        "type": 'nominal',
+        "axis": {
+          "title": 'classroom'
+        }
+      },
+      y: {
+        //aggregate: 'count',
+        "field": "Occupancy",
+        "type": "quantitative",
+        //"size": {"value": 1}
+      }
+    }
+      };
+  vegaEmbed('#vis', vlSpec);
+</script>
+</body>
+</html>

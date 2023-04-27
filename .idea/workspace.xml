@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe8c8f4f-aab3-4d92-b46b-b2dc69b45578" name="Changes" comment="project v1.2">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HbCLQODYgFOFd3lsjjYhjoUlNT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/apple/Library/Mobile Documents/com~apple~CloudDocs/UTT/ISI1/GL02/Projet/gl02_a21_chevaldetroyes",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="gl02_a21_chevaldetroyes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="gl02_a21_chevaldetroyes" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8c8f4f-aab3-4d92-b46b-b2dc69b45578" name="Changes" comment="" />
+      <created>1668544339743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668544339743</updated>
+      <workItem from="1668544345964" duration="3980000" />
+      <workItem from="1668767877693" duration="591000" />
+      <workItem from="1668768619841" duration="8233000" />
+      <workItem from="1669799612149" duration="12402000" />
+      <workItem from="1669973014934" duration="1674000" />
+      <workItem from="1669982174323" duration="2721000" />
+      <workItem from="1670069328616" duration="655000" />
+      <workItem from="1670070702431" duration="94000" />
+      <workItem from="1670070856688" duration="894000" />
+    </task>
+    <task id="LOCAL-00001" summary="Version 15/11/22, uploaded with the right account">
+      <created>1668544694343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668544694344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="another update again of 15/11/22, correction of a spelling mistake">
+      <created>1668545371630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668545371630</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update with packages needed">
+      <created>1668546070589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668546070589</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SPEC1 et SPEC2 version 18/11/22">
+      <created>1668780221398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668780221398</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SPEC1 et SPEC2 version 18/11/22">
+      <created>1668782157720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668782157720</updated>
+    </task>
+    <task id="LOCAL-00006" summary="SPEC8 version 18/11">
+      <created>1668786971285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668786971285</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SPEC1 with now implementation of the functionality to ask if user wants to import a file/some files themselves">
+      <created>1669801815847</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669801815848</updated>
+    </task>
+    <task id="LOCAL-00008" summary="integration and redo of SPEC7">
+      <created>1669805949699</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669805949699</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Redo of SPEC7, using the parser">
+      <created>1669809097234</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669809097234</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add max capacity temporary value: this part shall be ready after spec4">
+      <created>1669810162584</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669810162584</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SPEC 8 et SPEC 7 version 02/12/22">
+      <created>1669974440181</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669974440181</updated>
+    </task>
+    <task id="LOCAL-00012" summary="SPEC8 and partial SPEC 7 version 02/12/22">
+      <created>1669974571456</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669974571456</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Vega-lite code corrected with all functionalities. Project complete v1.0">
+      <created>1670068868702</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670068868702</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Vega-lite code corrected with all functionalities. Project complete v1.0">
+      <created>1670069653708</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670069653708</updated>
+    </task>
+    <task id="LOCAL-00015" summary="project v1.2">
+      <created>1670071667884</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670071667884</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="spec8" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 15/11/22, uploaded with the right account" />
+    <MESSAGE value="another update again of 15/11/22, correction of a spelling mistake" />
+    <MESSAGE value="update with packages needed" />
+    <MESSAGE value="SPEC1 et SPEC2 version 18/11/22" />
+    <MESSAGE value="SPEC8 version 18/11" />
+    <MESSAGE value="SPEC1 with now implementation of the functionality to ask if user wants to import a file/some files themselves" />
+    <MESSAGE value="integration and redo of SPEC7" />
+    <MESSAGE value="Redo of SPEC7, using the parser" />
+    <MESSAGE value="Add max capacity temporary value: this part shall be ready after spec4" />
+    <MESSAGE value="SPEC 8 et SPEC 7 version 02/12/22" />
+    <MESSAGE value="SPEC8 and partial SPEC 7 version 02/12/22" />
+    <MESSAGE value="Vega-lite code corrected with all functional. Project complete v1.0" />
+    <MESSAGE value="Vega-lite code corrected with all functionalities. Project complete v1.0" />
+    <MESSAGE value="project v1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="project v1.2" />
+  </component>
+</project>
